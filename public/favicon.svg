@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Fondo redondeado oscuro -->
+  <rect width="64" height="64" rx="16" fill="#09090b"/>
+  <!-- Borde sutil -->
+  <rect x="1" y="1" width="62" height="62" rx="15.5" fill="none" stroke="#27272a" stroke-width="1.5"/>
+  <!-- Punto verde de disponibilidad -->
+  <circle cx="50" cy="14" r="5" fill="#10b981"/>
+  <!-- Texto JLC -->
+  <text
+    x="32"
+    y="42"
+    font-family="'Inter', 'Segoe UI', Arial, sans-serif"
+    font-size="22"
+    font-weight="800"
+    fill="white"
+    text-anchor="middle"
+    letter-spacing="-1"
+  >JLC</text>
+</svg>
